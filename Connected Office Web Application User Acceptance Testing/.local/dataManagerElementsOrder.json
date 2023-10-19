@@ -1,0 +1,64 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Order_Table&Sequence_37",
+        "Product_Table&Sequence_37",
+        "OrderDetails_Table&Sequence_37",
+        "Customer_Table&Sequence_37",
+        "Order_Table&Sequence_36",
+        "Product_Table&Sequence_36",
+        "OrderDetails_Table&Sequence_36",
+        "Customer_Table&Sequence_36",
+        "Order_Table&Sequence_35",
+        "Product_Table&Sequence_35",
+        "OrderDetails_Table&Sequence_35",
+        "Customer_Table&Sequence_35",
+        "Customer_Table&Sequence_33",
+        "Order_Table&Sequence_33",
+        "Product_Table&Sequence_33",
+        "OrderDetails_Table&Sequence_33",
+        "OrderDetails_Table&Sequence_29",
+        "Order_Table&Sequence_29",
+        "Product_Table&Sequence_29",
+        "Product_Table&Sequence_26",
+        "Order_Table&Sequence_26",
+        "Order_Table&Sequence_24",
+        "Customer_Table&Sequence_21",
+        "Order_Table&Sequence_17",
+        "OrderDetails_Table&Sequence_14",
+        "Product_Table&Sequence_11",
+        "Customer_Table&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Customer Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Products.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
